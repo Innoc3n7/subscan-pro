@@ -6,6 +6,7 @@ SubScan is a powerful 🔍 subdomain enumeration tool designed for **educational
 **👨‍💻 Created by [inn0c3n7]https://github.com/Innoc3n7/subscan-pro)**
 
 ---
+join telegram : https://t.me/Subscanpro
 
 ## ✨ Features
 - ⚡ Fast subdomain enumeration using **25+ stable APIs** (50+ in future versions)
