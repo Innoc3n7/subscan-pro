@@ -21,8 +21,13 @@ SubScan is a powerful 🔍 subdomain enumeration tool designed for **educational
 Clone the repository using Git:
 
 git clone https://github.com/Innoc3n7/subscan-pro.git
+
+
 cd subscan-pro
+
+
 python subscan.py example.com
+
 ## 🛠️ **How to Run SubScan**
 
 Follow these steps to run **SubScan**:
