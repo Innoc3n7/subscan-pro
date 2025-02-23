@@ -3,7 +3,7 @@
 
 SubScan is a powerful 🔍 subdomain enumeration tool designed for **educational purposes only**. It uses multiple reliable APIs to discover subdomains quickly and efficiently. Built with Python 🐍, it features a custom scanning animation 🎞️ and clean output formatting.
 
-**👨‍💻 Created by [@inn0c3n7]https://github.com/Innoc3n7/subscan-pro)**
+**👨‍💻 Created by [inn0c3n7]https://github.com/Innoc3n7/subscan-pro)**
 
 ---
 
